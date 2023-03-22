@@ -1,5 +1,3 @@
 # stepik_auto_tests_course
-Домашние задания по курсу
 
-
-Hello everyone
+Домашние задания по курсу Selenium и Python
